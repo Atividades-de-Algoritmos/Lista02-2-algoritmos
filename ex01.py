@@ -1,4 +1,10 @@
 #
+# Autores:
+# michel silva
+#
+#
+# data: 26/06/2022
+#
 # 1.	Escreva um programa em linguagem Python que receba do usuário três números reais
 # e em seguida imprima-os em tela na ordem inversa.
 # Por exemplo, se o usuário informar os números 15.55, 50.3 e -50.2,
