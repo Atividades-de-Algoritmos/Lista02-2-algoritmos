@@ -1,4 +1,11 @@
 #
+#
+# Autores:
+# michel silva
+#
+#
+# data: 26/06/2022
+
 # 3.	Desenvolva um programa em linguagem Python que após o usuário informar uma certa quantidade de horas,
 # minutos e segundos, converta todo este tempo para segundos e apresente-o em tela.
 #
