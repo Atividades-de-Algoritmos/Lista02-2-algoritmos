@@ -140,6 +140,9 @@ fim do programa
  
 # ex04
 #### <a href="https://github.com/Atividades-de-Algoritmos/Lista02-algoritmos/blob/main/ex04.py">Ir até o código</a>
+
+<br>
+
 ## Sobre 📒:
 - Um algoritmo que recebe a quantidade de cada cédula e mostra a quantia total de dinheiro.
 
