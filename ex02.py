@@ -1,4 +1,10 @@
 #
+# Autores:
+# michel silva
+#
+#
+# data: 26/06/2022
+#
 # 	Elabore um programa em linguagem Python que tem como objetivo calcular a área
 # 	de um círculo. Para isso, o seu programa deve receber como entrada o raio
 # 	deste círculo em centímetros. Lembre-se que o cálculo de área de um círculo
