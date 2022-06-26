@@ -1,4 +1,10 @@
 #
+# Autores:
+# michel silva
+#
+#
+# data: 26/06/2022
+
 # 4.	Implemente um programa em linguagem Python que seja capaz de efetuar contagem de dinheiro.
 # Para isso, o usuário do programa deve informar a quantidade de notas de
 # •	2 reais;
