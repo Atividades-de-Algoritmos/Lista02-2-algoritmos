@@ -4,7 +4,7 @@
 # Emanuel Franklyn
 # Carlos Eduardo
 #
-# data: 26/06/2022
+# data: 27/06/2022
 #
 # 2. Elabore um programa em linguagem Python que tem como    
 # objetivo calcular a área de um círculo. Para isso, o seu   
@@ -15,11 +15,14 @@
 # tela o valor da área do círculo.                           
 
 # Entrada de dados
-raio = float(input("informe o raio: ")) # recebe o raio do círculo
 
-# Processamento
-area = 3.1416 * (raio ** 2) # calcula a area do círculo
+raio = float(input("informe o raio: ")) # Solicitando o raio do círculo
+
+# Processamento de dados
+
+area = 3.1416 * (raio ** 2) # Calcula a área do círculo
 
 # Saída de dados
-print(f"A área do círculo é: {area}") # imprime a area do círculo
-print("fim do programa") # informa ao usuário que o programa terminou
+
+print(f"A área do círculo é: {area}") # Imprime a área do círculo
+print("fim do programa") # Informa ao usuário que o programa terminou
