@@ -52,7 +52,7 @@ python ex01.py
 ```
 pressione enter para executar o arquivo. Logo em seguida, digite o valor 1, e pressione enter, em seguida, digite o valor 2, e pressione enter, em seguida, digite o valor 3, e pressione enter.
 
-O valor de entrada e de saída será exibido no terminal.
+>O valor de entrada e de saída será exibido no terminal.
 
 <br><br>
 
@@ -78,7 +78,7 @@ fim do programa
 ## Sobre 📒:
 - Recebe como entrada o raio do círculo em centímetros e vai mostrar no terminal pro usuário o resultado da fórmula para calcular a área.
 
-Fórmula área -> `A=πR^2`
+Fórmula área -> `A = π * R^2`
 
 <br><br>
 
@@ -87,7 +87,9 @@ No terminal, digite:
 ```cmd
 python ex02.py
 ```
-Enter para executar o arquivo .py, informe o valor do raio e logo será exibido no prompt de comando o valor da área do círculo.
+Enter para executar o arquivo .py, e em seguida informe o valor do raio
+
+>Será exibido no prompt de comando o valor da área do círculo.
 
 <br><br>
 
@@ -118,11 +120,11 @@ No terminal, digite:
 ```cmd
 python ex03.py
 ```
-pressione enter para executar o arquivo. Logo em seguida, informe a quantidade de horas, quantidade de minutos e a quantidade de segundos pressione enter.
-O programa irá exibir o total de segundos.
+Pressione enter para executar o arquivo. Logo em seguida, informe a quantidade de horas, quantidade de minutos e a quantidade de segundos pressione enter.
 
-<br>
-<br>
+>O programa irá exibir o total de segundos.
+
+<br><br>
 
 ## Exemplo no cmd 👨‍💻:
 ```
@@ -139,14 +141,14 @@ fim do programa
 <br>
  
 # ex04
-#### <a href="https://github.com/Atividades-de-Algoritmos/Lista02-algoritmos/blob/main/ex04.py">Ir até o código</a>
+#### <a href="https://github.com/Atividades-de-Algoritmos/Lista02-2-algoritmos/blob/main/ex04.py">Ir até o código</a>
 
 <br>
 
 ## Sobre 📒:
 - Um algoritmo que recebe a quantidade de cada cédula e mostra a quantia total de dinheiro.
 
-<br>
+<br><br>
 
 ## Como executar 💽:
 No terminal, digite:
@@ -154,7 +156,8 @@ No terminal, digite:
 python ex04.py
 ```
 Para cada cédula, informe a quantidade e pressione enter.
-O total de dinheiro será exibido no terminal.
+
+>O total de dinheiro será exibido no terminal.
 
 <br><br>
 
